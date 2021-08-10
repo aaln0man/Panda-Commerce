@@ -44,9 +44,13 @@
     box-shadow: 5px 5px 10px lightgray;
 
 }
+.card-body{
+    text-align: center;
+}
 .card-footer{
     background-color: white;
     border-top: none;
+    text-align: center;
 }
 #subscribe{
     height: 300px;
